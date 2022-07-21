@@ -1,0 +1,8 @@
+.main{
+    border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 0 0 15px 5px gray;
+    text-align: center;
+    height: 40vh;
+    margin-top: 20vh;
+}
